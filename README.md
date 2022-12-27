@@ -1,4 +1,4 @@
-## Fala Geração Tec, tudo bem? <i>"To Program and to Discover!!"</i>
+## Procurando sempre aprender mais <i>"Living and learning!"</i>
 
 <div align="center">
   <a href="https://github.com/IslanP1">
