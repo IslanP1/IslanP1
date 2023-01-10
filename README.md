@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/islanx_oliv/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href = "islanpereiradeoliveira@gmail.com">
+  <a href = "islanpereiradeoliveira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank">
   </a> 
   <a href="https://www.linkedin.com/in/islan-pereira-de-oliveira-b9312b24b/" target="_blank">
