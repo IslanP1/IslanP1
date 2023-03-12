@@ -2,7 +2,7 @@
 <br>
 
 ## <div><i> - Qualification</i></div>
-<p><i>Desevolvedor Back-end | Técnico em Informática</i></p>
+<p><i>Desenvolvedor Back-end | Técnico em Informática</i></p>
 <br>
 
 ## <div><i> - GitHub Data</i></div>
