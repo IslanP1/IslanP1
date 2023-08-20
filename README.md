@@ -1,52 +1,30 @@
-# <div align='center'><i align='center'>Code is poetry, and with each commit, I strive to create a beautiful masterpiece.</i></div>
-<br>
+# Islan Pereira
+Olá, meu nome é Islan Pereira, sou desenvolvedor Full Stack com ênfase em Back End e apaixonado por tecnologia. Atualmente estou cursando o 2º período de Análise e Desenvolvimento de Sistemas no IFPB - Campus Cajazeiras. Sou um entusiasta de tecnologia e estou sempre em busca de novos conhecimentos e desafios. Estou aberto a novas oportunidades e desafios, caso queira entrar em contato comigo, fique a vontade para me enviar uma mensagem.
 
-## <div><i> - Qualification</i></div>
-<p><i>Desenvolvedor Full-Stack | Técnico em Informática</i></p>
-<br>
+## - Qualification
+Técnico em Informática - IFPB - Campus Cajazeiras<br>
+Graduando em Análise e Desenvolvimento de Sistemas - IFPB - Campus Cajazeiras
 
-## <div><i> - GitHub Data</i></div>
-<div align="center">
-  <a href="https://github.com/IslanP1">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=IslanP1&show_icons=true&theme=nightowl&include_all_commits=true&count_private_and_public=true"> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslanP1&layout=compact&langs_count=6&theme=nightowl"> 
-</div> 
+### Conecte-se comigo
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:islanpereiradeoliveira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/islan-pereira/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/islanx_oliv/)
 
-<div align='center' style="display: inline_block"><br>
-  <img align="center" alt="Ander_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ander_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ander_Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Ander_React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Ander_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Ander_CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
-  
-## <div><i> - Contacts</i></div>
-<div align='center'>
-  <a href="https://www.instagram.com/islanx_oliv/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:islanpereiradeoliveira@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank">
-  </a>
-  <a href="https://discord.gg/wbS4BjTd" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-</div>
-<br>
 
-## <div><i> - Commits</i></div>
-<div align="center">
-  
-  ![Snake animation](https://github.com/IslanP1/IslanP1/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<br>
-  
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-  
-  
+### Habilidades
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslanP1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslanP1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Meus Principais Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=IslanP1&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/IslanP1/dio-lab-open-source)
