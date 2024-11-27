@@ -1,5 +1,5 @@
 # Islan Pereira
-Olá, meu nome é Islan Pereira, sou desenvolvedor Full Stack com ênfase em Back End e apaixonado por tecnologia. Atualmente estou cursando o 2º período de Análise e Desenvolvimento de Sistemas no IFPB - Campus Cajazeiras. Sou um entusiasta de tecnologia e estou sempre em busca de novos conhecimentos e desafios. Estou aberto a novas oportunidades e desafios, caso queira entrar em contato comigo, fique a vontade para me enviar uma mensagem.
+Olá, meu nome é Islan Pereira, sou desenvolvedor Full Stack com ênfase em Back End e apaixonado por tecnologia. Atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFPB - Campus Cajazeiras. Sou um entusiasta de tecnologia e estou sempre em busca de novos conhecimentos e desafios. Estou aberto a novas oportunidades e desafios, caso queira entrar em contato comigo, fique a vontade para me enviar uma mensagem.
 
 ## - Qualificações
 Técnico em Informática - IFPB - Campus Cajazeiras<br>
