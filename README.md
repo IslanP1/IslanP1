@@ -20,11 +20,3 @@ Graduando em Análise e Desenvolvimento de Sistemas - IFPB - Campus Cajazeiras
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslanP1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslanP1&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### Commits Contribution Grapy
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IslanP1&bg_color=000000&color=e94d5f&line=67222a&point=30a3dc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
