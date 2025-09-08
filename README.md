@@ -8,7 +8,7 @@
 
 ### 🚀 Desenvolvedor Full Stack | Especialista em Backend | Entusiasta de Tecnologia  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Backend+Specialist;Estudante+de+ADS;Sempre+aprendendo+📚" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Backend+Specialist;Estudante+de+ADS;Sempre+aprendendo+📚" alt="Typing SVG" />
 
 </div>
 
