@@ -17,7 +17,7 @@
 ## 🎯 Sobre Mim  
 
 Sou um **desenvolvedor apaixonado por tecnologia** com foco em **desenvolvimento Back End** e **soluções Full Stack**.  
-Atualmente cursando o **4º período de Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**.  
+Atualmente cursando o **3º período de Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**.  
 
 🔍 Sempre em busca de **novos desafios** e oportunidades para crescer profissionalmente  
 💡 Mentalidade de **resolução de problemas** e **aprendizado contínuo**  
@@ -111,7 +111,7 @@ Atualmente cursando o **4º período de Análise e Desenvolvimento de Sistemas**
 
 *"Código limpo não é escrito seguindo um conjunto de regras.  
 Você sabe que está trabalhando em código limpo quando cada rotina que você lê é praticamente o que você esperava."*  
-— **Robert C. Martin**  
+- **Robert C. Martin**  
 
 ⭐ Se meu trabalho te interessou, deixe uma estrela nos repositórios!  
 
